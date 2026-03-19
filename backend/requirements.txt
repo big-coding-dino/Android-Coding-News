@@ -1,0 +1,13 @@
+llama-index
+llama-index-core
+llama-index-embeddings-huggingface
+llama-index-vector-stores-chroma
+llama-index-llms-anthropic
+chromadb
+trafilatura
+youtube-transcript-api
+requests
+fastapi
+uvicorn[standard]
+python-dotenv
+sentence-transformers

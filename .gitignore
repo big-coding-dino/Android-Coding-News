@@ -1,0 +1,22 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+.env.*
+
+# ChromaDB persisted storage
+backend/storage/
+
+# Claude Code local files
+.claude/
+
+# IDE
+.idea/
+.vscode/
